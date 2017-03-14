@@ -1,10 +1,9 @@
 {
     "name": "Erchoc/Sadmin",
-    "type": "library",
-    "description": "a Simple and Practical Template for Web Developer",
+    "license": "MIT",
     "keywords": ["Template","Developer"],
     "homepage": "https://github.com/Erchoc/Sadmin",
-    "license": "MIT",
+    "description": "A Simple and Practical Template for Web Developer",
     "authors": [
         {
             "name": "Erchoc Yang",
@@ -14,7 +13,8 @@
         }
     ],
     "require": {
-
+        "php": ">=5.3.3",
+        "another-vendor/package": "1.*"
     },
     "autoload": {
 

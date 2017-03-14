@@ -1,4 +1,4 @@
-# Sadmin, a Simple and Practical Template for Web Developer
+# Sadmin, A Simple and Practical Template for Web Developer
 
     基于BootStrap3的简单后台页面，持续修改完善中。
 
